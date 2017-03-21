@@ -1,0 +1,5 @@
+J:\VSSTUDIO2015PROJECT!!!\converter_kroktest_to_txt\converter_kroktest_to_txt\bin\Release\converter_kroktest_to_txt.exe
+J:\VSSTUDIO2015PROJECT!!!\converter_kroktest_to_txt\converter_kroktest_to_txt\bin\Release\converter_kroktest_to_txt.pdb
+J:\VSSTUDIO2015PROJECT!!!\converter_kroktest_to_txt\converter_kroktest_to_txt\obj\Release\converter_kroktest_to_txt.exe
+J:\VSSTUDIO2015PROJECT!!!\converter_kroktest_to_txt\converter_kroktest_to_txt\obj\Release\converter_kroktest_to_txt.pdb
+J:\VSSTUDIO2015PROJECT!!!\converter_kroktest_to_txt\converter_kroktest_to_txt\obj\Release\converter_kroktest_to_txt.csprojResolveAssemblyReference.cache
