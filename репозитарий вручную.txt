@@ -1,0 +1,7 @@
+
+ƒобавить репозиторий вручную. «апустить "терминал" и выполнить следующие команды:
+$ cd /tmp
+$ wget http://archive.ualinux.com/ubuntu/main/all/ualinux-repository.deb
+$ sudo dpkg -i /tmp/ualinux-repository.deb
+$ sudo apt-get update
+$ sudo apt-get dist-upgrade
