@@ -1,0 +1,5 @@
+J:\VSSTUDIO2015PROJECT!!!\viborka testov\viborka testov\bin\Debug\viborka testov.exe
+J:\VSSTUDIO2015PROJECT!!!\viborka testov\viborka testov\bin\Debug\viborka testov.pdb
+J:\VSSTUDIO2015PROJECT!!!\viborka testov\viborka testov\obj\Debug\viborka testov.csprojResolveAssemblyReference.cache
+J:\VSSTUDIO2015PROJECT!!!\viborka testov\viborka testov\obj\Debug\viborka testov.exe
+J:\VSSTUDIO2015PROJECT!!!\viborka testov\viborka testov\obj\Debug\viborka testov.pdb

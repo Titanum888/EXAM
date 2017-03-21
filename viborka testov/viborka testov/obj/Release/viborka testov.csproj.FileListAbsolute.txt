@@ -1,0 +1,4 @@
+J:\VSSTUDIO2015PROJECT!!!\viborka testov\viborka testov\bin\Release\viborka testov.exe
+J:\VSSTUDIO2015PROJECT!!!\viborka testov\viborka testov\bin\Release\viborka testov.pdb
+J:\VSSTUDIO2015PROJECT!!!\viborka testov\viborka testov\obj\Release\viborka testov.exe
+J:\VSSTUDIO2015PROJECT!!!\viborka testov\viborka testov\obj\Release\viborka testov.pdb
