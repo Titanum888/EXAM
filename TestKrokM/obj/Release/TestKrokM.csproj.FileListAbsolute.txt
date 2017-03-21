@@ -1,0 +1,9 @@
+J:\VSSTUDIO2015PROJECT!!!\TestKrokM\TestKrokM\bin\Release\TestKrokM.exe
+J:\VSSTUDIO2015PROJECT!!!\TestKrokM\TestKrokM\bin\Release\TestKrokM.pdb
+J:\VSSTUDIO2015PROJECT!!!\TestKrokM\TestKrokM\obj\Release\TestKrokM.exe
+J:\VSSTUDIO2015PROJECT!!!\TestKrokM\TestKrokM\obj\Release\TestKrokM.pdb
+C:\Users\LABORANT\Desktop\Курсовой проект!!!\TestKrokM\TestKrokM\obj\Release\TestKrokM.exe
+C:\Users\LABORANT\Desktop\Курсовой проект!!!\TestKrokM\TestKrokM\obj\Release\TestKrokM.pdb
+C:\Users\LABORANT\Desktop\Курсовой проект!!!\TestKrokM\TestKrokM\bin\Release\TestKrokM.exe
+C:\Users\LABORANT\Desktop\Курсовой проект!!!\TestKrokM\TestKrokM\bin\Release\TestKrokM.pdb
+C:\Users\LABORANT\Desktop\Курсовой проект!!!\TestKrokM\TestKrokM\obj\Release\TestKrokM.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+J:\VSSTUDIO2015PROJECT!!!\TestKrokM\TestKrokM\obj\Debug\TestKrokM.csprojResolveAssemblyReference.cache
+J:\VSSTUDIO2015PROJECT!!!\TestKrokM\TestKrokM\bin\Debug\TestKrokM.exe
+J:\VSSTUDIO2015PROJECT!!!\TestKrokM\TestKrokM\bin\Debug\TestKrokM.pdb
+J:\VSSTUDIO2015PROJECT!!!\TestKrokM\TestKrokM\obj\Debug\TestKrokM.exe
+J:\VSSTUDIO2015PROJECT!!!\TestKrokM\TestKrokM\obj\Debug\TestKrokM.pdb
