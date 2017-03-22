@@ -65,7 +65,7 @@ namespace TestKrokM
         }
         public void Zamenai()
         {
-            if (b != "") b = b.Remove(0, 1);
+            if (b != "" && (b[0]=='+' || b[0] == '-' || b[0] == '?')) b = b.Remove(0, 1);
             b=b.Replace('і', 'i');
             b=b.Replace('І', 'I');
         }
